@@ -851,3 +851,20 @@ a:focus {
   color: blue;
 }
 
+@media(max-width:576px){
+  body{
+    text-align: center;
+  }
+  .hero-header{
+    font-size: 30px;
+  }
+  .about-flex{
+    display: flex;
+    flex-wrap: wrap-reverse;
+  }
+  .three-d-img{
+    height: 300px;
+    margin-top: -70px;
+  }
+}
+
