@@ -866,5 +866,9 @@ a:focus {
     height: 300px;
     margin-top: -70px;
   }
+  iframe{
+    width: 100%;
+    height: 300px;
+  }
 }
 
